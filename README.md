@@ -12,4 +12,5 @@ Steps to open website :
 
 NB:
 As this website contains  hyperlinks so it is only possible to view the index page from the site link provided below 
+ https://abhiram-j.github.io/Healthcare-Guide/
 This is because we can only host one page at a time from github pages so the hyperlinks wont work .
